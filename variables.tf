@@ -8,3 +8,4 @@
   variable "PRI_SUB_5_A_CIDR" {}
   variable "PRI_SUB_6_B_CIDR" {}
   variable "env_prefix" {}
+  variable "keypair"      {}
